@@ -131,19 +131,6 @@ $ cat learning_progress.log
   Data Structures & Algorithms    █████░░░░░░   practising daily
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taashatrinita&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=taashatrinita&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
 
 ---
 
@@ -153,9 +140,9 @@ $ cat learning_progress.log
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [Add her LinkedIn URL](https://linkedin.com/in/REPLACE-WITH-HER-LINKEDIN) |
-| 🌐 **Portfolio** | [Add her portfolio URL](https://REPLACE-WITH-HER-PORTFOLIO) |
-| 🐙 **GitHub** | [github.com/taashatrinita](https://github.com/taashatrinita) |
+| 💼 **LinkedIn** | [LinkedIn](https://www.linkedin.com/in/taasha/) |
+| 🌐 **Portfolio** | [Portfolio](https://REPLACE-WITH-HER-PORTFOLIO) |
+| 🐙 **GitHub** | [Github](https://github.com/taashatrinita) |
 
 </div>
 
